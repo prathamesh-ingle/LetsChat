@@ -64,12 +64,15 @@ app.get("/api/health", (req, res) => {
   });
 });
 
-if (process.env.NODE_ENV === "production") {
-  app.use(express.static(path.join(__dirname, "../../../frontend/dist")));
+if(process.env.NODE_ENV === "production"){
+  const distPath = path.join(process.cwd(), '../frontend/dist');  // Root-relative
+  console.log('Serving static:', distPath);
+  app.use(express.static(distPath));
   app.get("*", (req, res) => {
-    res.sendFile(path.join(__dirname, "../../../frontend/dist/index.html"));
+    res.sendFile(path.join(distPath, 'index.html'));
   });
 }
+
 
 app.listen(PORT, '0.0.0.0', () => {  // 👈 Bind all interfaces for Render
   console.log(`🚀 Server running on port ${PORT}`);
