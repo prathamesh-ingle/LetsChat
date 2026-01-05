@@ -1,0 +1,114 @@
+{
+  "default": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "mumbai": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"],
+    "extra": ["1916"]
+  },
+  "pune": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"],
+    "extra": ["02025501269", "02025506800"]
+  },
+  "nagpur": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "thane": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "nashik": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "aurangabad": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "kolhapur": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "solapur": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "sangli": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "satara": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "ratnagiri": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "jalgaon": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "akola": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "amravati": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "latur": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "beed": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "parbhani": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "nanded": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "chandrapur": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "yavatmal": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  },
+  "dhule": {
+    "police": ["112", "100"],
+    "ambulance": ["108", "102"],
+    "fire": ["101"]
+  }
+}

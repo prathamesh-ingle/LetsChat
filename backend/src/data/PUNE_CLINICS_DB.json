@@ -1,0 +1,116 @@
+{
+  "akurdi": [
+    {
+      "name": "Akurdi Hospital",
+      "distance_km": 0.5,
+      "address": "Near Akurdi Church, Akurdi, Pune 411035"
+    },
+    {
+      "name": "Supreme Clinic",
+      "distance_km": 0.8,
+      "address": "Akurdi, Pimpri-Chinchwad, Pune 411035"
+    },
+    {
+      "name": "7 Orange Hospital",
+      "distance_km": 1.2,
+      "address": "Akurdi, Pune 411035"
+    }
+  ],
+  "chinchwad": [
+    {
+      "name": "Apollo Clinic Chinchwad",
+      "distance_km": 1.0,
+      "address": "Mumbai-Bangalore Highway, Chinchwad, Pune 411019"
+    },
+    {
+      "name": "Ashwini Netralaya",
+      "distance_km": 2.0,
+      "address": "Pimpri-Chinchwad, Pune 411018"
+    },
+    {
+      "name": "Dr. Bhirud's Sweet Smile Dental Clinic",
+      "distance_km": 2.5,
+      "address": "Pimpri-Chinchwad, Pune 411018"
+    }
+  ],
+  "katraj": [
+    {
+      "name": "Madhavbaug Clinic Katraj",
+      "distance_km": 0.6,
+      "address": "Flat No 1, Aagam Apartment, Katraj–Dattanagar Road, Near Shani Mandir, Katraj, Pune 411046"
+    },
+    {
+      "name": "Green Leaf Ayurved Clinic",
+      "distance_km": 1.0,
+      "address": "Katraj, Pune 411046"
+    },
+    {
+      "name": "Nityanand Rehabilitation Centre",
+      "distance_km": 1.5,
+      "address": "Katraj, Pune 411046"
+    }
+  ],
+  "dhankawadi": [
+    {
+      "name": "Unique Multispeciality Hospital",
+      "distance_km": 1.0,
+      "address": "Dhankawadi, Pune 411043"
+    },
+    {
+      "name": "Dr. Pawar Hospital",
+      "distance_km": 1.3,
+      "address": "Dhankawadi, Pune 411043"
+    },
+    {
+      "name": "Katraj Clinic",
+      "distance_km": 1.8,
+      "address": "Ambegaon–Katraj Road, Pune 411046"
+    }
+  ],
+  "pimpri": [
+    {
+      "name": "Pristyn Care Clinic Pimpri-Chinchwad",
+      "distance_km": 1.0,
+      "address": "Pimpri-Chinchwad, Pune 411018"
+    },
+    {
+      "name": "Ayuspanda Ayurvedic Clinic",
+      "distance_km": 2.0,
+      "address": "Pimple Saudagar, Pimpri-Chinchwad, Pune 411027"
+    },
+    {
+      "name": "Nandadeep SERI Eye Hospital",
+      "distance_km": 2.5,
+      "address": "Pimple Saudagar, Pimpri-Chinchwad, Pune 411027"
+    }
+  ],
+  "pune": [
+    {
+      "name": "Apollo Clinic, Baner",
+      "distance_km": 5.0,
+      "address": "Baner Road, Baner, Pune 411045"
+    },
+    {
+      "name": "Ruby Hall Clinic",
+      "distance_km": 3.0,
+      "address": "Sassoon Road, Pune 411001"
+    },
+    {
+      "name": "Sahyadri Hospital",
+      "distance_km": 2.0,
+      "address": "Karve Road, Deccan Gymkhana, Pune 411004"
+    }
+  ],
+  "default": [
+    {
+      "name": "Nearest government health center",
+      "distance_km": null,
+      "address": "Check local government hospital / PHC near your area"
+    },
+    {
+      "name": "Emergency helpline",
+      "distance_km": null,
+      "address": "Call 108 for medical emergency in India"
+    }
+  ]
+}
