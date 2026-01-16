@@ -73,7 +73,7 @@ if(process.env.NODE_ENV === "production"){
 }
 
 
-app.listen(PORT, '0.0.0.0', () => {  // 👈 Bind all interfaces for Render
+app.listen(PORT, () => {  // 👈 Bind all interfaces for Render
   console.log(`🚀 Server running on port ${PORT}`);
   console.log(`🤖 Gemini AI: ${process.env.GEMINI_API_KEY ? "✅ Ready" : "❌ Missing"}`);
   connectDB();
