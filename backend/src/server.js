@@ -28,8 +28,7 @@ console.log("GEMINI_KEY present:", !!process.env.GEMINI_API_KEY);
 
 // 👈 DYNAMIC CORS - FIXED
 const corsOrigins = process.env.NODE_ENV === 'production' 
-  ? (process.env.CLIENT_URL || 'https://letschat-1-r5so.onrender.com').split(',')
-  : 'http://localhost:5173';
+  ? [process.env.CLIENT_URL] : ['http://localhost:5173'];
 
 console.log('CORS origins:', corsOrigins);
 
